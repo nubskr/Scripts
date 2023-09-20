@@ -1,0 +1,16 @@
+[
+	{	"command": "insert_snippet",
+		"args":
+		{
+			"name": "Packages/User/snip.sublime-snippet"
+		}
+	},
+	{ "command" : "fold" },
+	{ "command" : "next_field"},
+	{ "command" : "fold" },
+	{ "command" : "next_field"},
+	{ "command" : "fold" },
+	{ "command" : "next_field" },
+	{ "command" : "fold" },
+	{ "command" : "next_field" },
+]
